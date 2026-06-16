@@ -1,6 +1,10 @@
 <h1 align="center">T-800 UNIT // SkrrtSkerrt</h1>
 
 <p align="center">
+  <img src="./9528190.jpg" alt="T-800 profile art" width="520" />
+</p>
+
+<p align="center">
   <b>AI Engineer</b> · Systems Builder · Automation · LLMs · Infra
 </p>
 
