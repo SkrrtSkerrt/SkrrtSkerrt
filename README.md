@@ -53,10 +53,10 @@
 
 ## SIGNAL
 
-- Website: add if you have one
-- LinkedIn: add if you want it public
-- X: add if relevant
-- Email: add if you want contact enabled
+- To be aquired.
+- To be aquired.
+- To be aquired.
+- To be aquired.
 
 ---
 
